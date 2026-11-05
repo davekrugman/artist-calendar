@@ -63,3 +63,7 @@ Originally built in a single Claude Code session for
 a 15-minute live walkthrough of his WINDOWS photo project for collectors.
 Distilled into a reusable skill so other artists (or anyone) can have the
 same setup on their own site.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
